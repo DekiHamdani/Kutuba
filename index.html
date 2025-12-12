@@ -20,7 +20,7 @@
         </aside>
 
         <main id="main-content">
-          <div id="welcome-screen">
+           <div id="welcome-screen">
     <h2>Selamat Datang di Aplikasi Kuis Interaktif!</h2>
     <p id="welcome-message">Silakan pilih mata pelajaran dari sidebar di sebelah kiri untuk memulai kuis.</p>
     
@@ -38,6 +38,24 @@
         <p>Siap menguji pengetahuan Anda? Pilih Mata Pelajaran di samping dan mulai tantangan Anda sekarang!</p>
     </div>
 </div>
+
+            <div id="quiz-area" style="display: none;">
+                <h3 id="subject-title"></h3>
+                <p id="question-text"></p>
+                <div id="options-container" class="options">
+                    </div>
+                <div id="feedback-area" class="feedback"></div>
+                
+                <button id="next-button" style="display: none;">Soal Selanjutnya &rarr;</button>
+            </div>
+
+            <div id="result-area" class="result-box" style="display: none;">
+                <h2>🎉 Kuis Selesai! 🎉</h2>
+                <p>Mata Pelajaran: <span id="final-subject"></span></p>
+                <p>Total Soal: <span id="total-questions"></span></p>
+                <h3 id="final-score-text"></h3>
+                <button onclick="window.location.reload()">Mulai Kuis Baru</button>
+            </div>
         </main>
     </div>
 
@@ -47,10 +65,4 @@
 
     <script src="script.js"></script>
 </body>
-<footer>
-    <p>&copy; 2025 Aplikasi Kuis Interaktif. | 
-        <a href="about.html">Tentang Kami</a> | 
-        <a href="privacy.html">Kebijakan Privasi</a>
-    </p>
-</footer>
 </html>
