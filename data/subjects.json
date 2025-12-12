@@ -1,0 +1,12 @@
+[
+    {
+        "namaMataPelajaran": "Komunikasi Antarpribadi",
+        "folder": "KomunikasiAntarpribadi",
+        "jumlahModul": 8
+    },
+    {
+        "namaMataPelajaran": "Mata Pelajaran Baru",
+        "folder": "MataPelajaranBaru",
+        "jumlahModul": 5
+    }
+]

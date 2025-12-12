@@ -1,0 +1,522 @@
+[
+    {
+        "id": 1,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Menurut Adler, komunikasi antarpribadi dapat dijabarkan ke dalam dua definisi, yakni definisi ....",
+        "pilihan": [
+            "personal dan definisi situasional",
+            "situasional dan definisi kualitatif",
+            "kualitatif dan definisi kuantitatif",
+            "langsung dan definisi tidak langsung"
+        ],
+        "jawabanBenar": "situasional dan definisi kualitatif",
+        "penjelasanSalah": "Menurut Adler et al., komunikasi antarpribadi dapat didefinisikan melalui dua pendekatan utama: definisi situasional, yang berfokus pada faktor-faktor eksternal seperti jumlah orang dan kedekatan fisik, dan definisi kualitatif, yang berfokus pada kualitas interaksi antar individu."
+    },
+    {
+        "id": 2,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Menurut Elihu Katz dan Paul Lazarsfeld, syarat utama terjadinya komunikasi antarpribadi adalah, **kecuali**",
+        "pilihan": [
+            "kehadiran pihak-pihak yang berkomunikasi secara tatap muka",
+            "umpan balik dapat segera diketahui",
+            "dapat memanfaatkan semua atau sebagian alat indra yang ada pada manusia",
+            "menggunakan digunakan alat-alat mekanis seperti telepon, surat atau kamera televisi"
+        ],
+        "jawabanBenar": "menggunakan digunakan alat-alat mekanis seperti telepon, surat atau kamera televisi",
+        "penjelasanSalah": "Definisi yang dikemukakan oleh Elihu Katz dan Paul Lazarsfeld secara eksplisit menyatakan bahwa dalam komunikasi antarpribadi **tidak digunakan** alat-alat mekanis. Mereka menekankan pentingnya interaksi tatap muka secara langsung tanpa perantara teknologi."
+    },
+    {
+        "id": 3,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Berikut ini yang merupakan contoh komunikasi antarpribadi adalah ....",
+        "pilihan": [
+            "Yuni sedang melakukan video call dengan keluarga besarnya yang sedang berkumpul merayakan Idul Fitri di rumah neneknya",
+            "Vina sedang menghubungi *call center* bank untuk menanyakan solusi dari kartu ATM-nya yang tertelan",
+            "Mita sedang mendiskusikan pilihan jurusan yang akan ia ambil di perguruan tinggi dengan kakaknya",
+            "Tara sedang berbicara dalam rapat terkait proyek baru yang akan dikerjakan timnya"
+        ],
+        "jawabanBenar": "Mita sedang mendiskusikan pilihan jurusan yang akan ia ambil di perguruan tinggi dengan kakaknya",
+        "penjelasanSalah": "Diskusi antara Mita dan kakaknya adalah contoh komunikasi antarpribadi yang paling jelas karena melibatkan dua orang dengan hubungan yang dekat, pesan yang bersifat pribadi, dan umpan balik langsung."
+    },
+    {
+        "id": 4,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Reaksi atau balasan pesan yang diberikan oleh penerima kepada pembicara disebut dengan",
+        "pilihan": [
+            "*encoding*",
+            "*decoding*",
+            "*feedback*",
+            "pesan"
+        ],
+        "jawabanBenar": "*feedback*",
+        "penjelasanSalah": "**Feedback** atau umpan balik adalah komponen krusial dalam proses komunikasi yang merujuk pada respons atau tanggapan yang diberikan oleh penerima pesan kembali kepada pengirim."
+    },
+    {
+        "id": 5,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Dalam definisi kualitatif komunikasi antarpribadi, pendekatan difokuskan kepada ....",
+        "pilihan": [
+            "kualitas interaksi di antara individu yang terlibat",
+            "saluran komunikasi yang digunakan",
+            "jumlah orang yang terlibat dalam komunikasi",
+            "kecepatan *feedback*"
+        ],
+        "jawabanBenar": "kualitas interaksi di antara individu yang terlibat",
+        "penjelasanSalah": "Definisi **kualitatif** menekankan pada kualitas hubungan dan cara individu saling memperlakukan satu sama lain dalam interaksi. Fokusnya adalah pada kedalaman dan sifat pribadi dari komunikasi tersebut."
+    },
+    {
+        "id": 6,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Dina dan Emma yang baru berkenalan, hanya berhubungan sebatas teman kuliah saja. Namun, seiring frekuensi interaksi mereka bertambah, keintiman pun mulai terjalin, komunikasi mereka sekarang bertambah akrab dan mereka pun menjadi sahabat. Ilustrasi di atas merupakan definisi komunikasi antarpribadi dilihat melalui pendekatan ....",
+        "pilihan": [
+            "diadik",
+            "pengembangan hubungan",
+            "konflik",
+            "komunikasi antarbudaya"
+        ],
+        "jawabanBenar": "pengembangan hubungan",
+        "penjelasanSalah": "Ilustrasi tersebut secara sempurna menggambarkan pendekatan **pengembangan (developmental approach)**, di mana komunikasi antarpribadi dilihat sebagai sebuah proses yang berkembang dari level impersonal menjadi lebih personal dan intim seiring dengan peningkatan interaksi dan kedekatan."
+    },
+    {
+        "id": 7,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Berikut ini merupakan beberapa aksioma yang perlu diperhatikan dalam komunikasi interpersonal menurut DeVito, **kecuali** ....",
+        "pilihan": [
+            "tidak perlu proses penyesuaian",
+            "merupakan proses transaksional",
+            "seringkali tidak terhindarkan",
+            "bersifat *irreversible*"
+        ],
+        "jawabanBenar": "tidak perlu proses penyesuaian",
+        "penjelasanSalah": "Salah satu aksioma komunikasi interpersonal yang dikemukakan DeVito adalah bahwa komunikasi melibatkan **proses penyesuaian (adjustment)**. Pihak yang berkomunikasi harus menyesuaikan sistem isyarat/simbol yang mereka gunakan agar dapat dimengerti, sehingga pernyataan 'tidak perlu proses penyesuaian' adalah salah."
+    },
+    {
+        "id": 8,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Ciri-ciri komunikasi antarpribadi menurut Everet M. Rogers adalah komunikasi",
+        "pilihan": [
+            "terjadi secara kebetulan",
+            "antarpribadi menggunakan lambang-lambang bermakna",
+            "antarpribadi paling sedikit melibatkan dua orang",
+            "antarpribadi mempunyai tingkat umpan balik yang tinggi"
+        ],
+        "jawabanBenar": "antarpribadi mempunyai tingkat umpan balik yang tinggi",
+        "penjelasanSalah": "Menurut Everet M. Rogers, salah satu ciri utama dari saluran komunikasi antarpribadi adalah tingkat **umpan balik (*feedback*) yang terjadi sangat tinggi** karena sifatnya yang dialogis dan langsung."
+    },
+    {
+        "id": 9,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Terdapat dua dimensi dalam komunikasi antarpribadi menurut DeVito, yaitu",
+        "pilihan": [
+            "hubungan dan jarak",
+            "isi dan hubungan",
+            "waktu dan jarak",
+            "isi dan waktu"
+        ],
+        "jawabanBenar": "isi dan hubungan",
+        "penjelasanSalah": "DeVito menjelaskan bahwa setiap komunikasi antarpribadi memiliki dua dimensi: dimensi **isi (*content*)**, yang merujuk pada apa yang dibicarakan, dan dimensi **hubungan (*relationship*)**, yang merujuk pada bagaimana hubungan antara pihak-pihak yang berkomunikasi."
+    },
+    {
+        "id": 10,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Salah satu tujuan komunikasi antarpribadi adalah ....",
+        "pilihan": [
+            "mempengaruhi khalayak luas",
+            "mengambil keputusan-keputusan organisasi",
+            "memelihara hubungan dan mengembangkan kedekatan atau keakraban",
+            "memberikan informasi kepada publik"
+        ],
+        "jawabanBenar": "memelihara hubungan dan mengembangkan kedekatan atau keakraban",
+        "penjelasanSalah": "Salah satu tujuan fundamental dari komunikasi antarpribadi adalah untuk menjalin, memelihara, dan **mengembangkan hubungan** serta keakraban."
+    },
+    {
+        "id": 11,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Berikut ini merupakan karakteristik dari komunikasi antarpribadi, **kecuali** ....",
+        "pilihan": [
+            "harus menggunakan kata-kata",
+            "melibatkan paling sedikit dua orang",
+            "dipengaruhi oleh konteks",
+            "dipengaruhi oleh kegaduhan atau *noise*"
+        ],
+        "jawabanBenar": "harus menggunakan kata-kata",
+        "penjelasanSalah": "Komunikasi antarpribadi **tidak harus melibatkan kata-kata**. Pesan dapat disampaikan secara efektif melalui komunikasi non-verbal."
+    },
+    {
+        "id": 12,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Berikut ini yang merupakan contoh penggunaan internet dalam penggunaan komunikasi antarpribadi adalah ....",
+        "pilihan": [
+            "Anita mendiskusikan pekerjaannya dengan bosnya yang sedang berada di luar negeri",
+            "Fira sedang mengunggah tulisan mengenai literasi media di blognya",
+            "Dika mengobrol dan menatap mata Ibunya melalui layanan *video call*",
+            "Vanya mengunggah video liburannya ke Bali di *youtube*"
+        ],
+        "jawabanBenar": "Dika mengobrol dan menatap mata Ibunya melalui layanan *video call*",
+        "penjelasanSalah": "Mengobrol dan menatap mata ibu melalui *video call* adalah contoh komunikasi antarpribadi yang dimediasi komputer (*CMC*). Interaksi ini bersifat *one-to-one* dan mencoba mereplikasi kedekatan komunikasi tatap muka."
+    },
+    {
+        "id": 13,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Berikut ini adalah hal-hal yang mempengaruhi komunikasi efektif berdasarkan perbedaan budaya, **kecuali**",
+        "pilihan": [
+            "budaya maskulin dan feminin",
+            "waktu dan jarak",
+            "konteks tinggi dan konteks rendah",
+            "jarak kekuasaan"
+        ],
+        "jawabanBenar": "waktu dan jarak",
+        "penjelasanSalah": "Dimensi budaya utama yang mempengaruhi komunikasi mencakup individualisme vs kolektivisme, konteks tinggi vs rendah, jarak kekuasaan, maskulin vs feminin, dan penghindaran ketidakpastian. **'Waktu dan jarak'** bukanlah salah satu dari dimensi utama tersebut."
+    },
+    {
+        "id": 14,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Berikut ini yang merupakan dimensi dalam komunikasi antar budaya adalah",
+        "pilihan": [
+            "tingkat masyarakat kelompok budaya dari para partisipan.",
+            "saluran yang dilalui oleh pesan-pesan komunikasi antar budaya.",
+            "konteks sosial tempat terjadinya komunikasi antar budaya",
+            "semua benar"
+        ],
+        "jawabanBenar": "semua benar",
+        "penjelasanSalah": "Dimensi utama KAB mencakup tingkat masyarakat, konteks sosial, dan saluran yang digunakan untuk pesan, sehingga semua pilihan benar."
+    },
+    {
+        "id": 15,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Di bawah ini adalah unsur-unsur budaya dalam komunikasi antar budaya, **kecuali** ....",
+        "pilihan": [
+            "pola pikir",
+            "dimensi jarak",
+            "proses verbal dan non verbal",
+            "konsep waktu"
+        ],
+        "jawabanBenar": "dimensi jarak",
+        "penjelasanSalah": "Unsur-unsur budaya mencakup pola pikir, nilai, sikap, dan konsep seperti waktu. **'Dimensi jarak'** bukanlah sebuah unsur budaya fundamental."
+    },
+    {
+        "id": 16,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Gudykunst berpendapat bahwa komunikasi lintas budaya yang efektif didasarkan pada kemampuan mengelola ....",
+        "pilihan": [
+            "ketidakpastian dan kegelisahan.",
+            "kecemasan dan ketakutan",
+            "kecemasan dan ketidakpastian",
+            "kepercayaan diri"
+        ],
+        "jawabanBenar": "ketidakpastian dan kegelisahan.",
+        "penjelasanSalah": "Menurut Gudykunst, kunci dari komunikasi lintas budaya yang efektif adalah kemampuan individu untuk mengelola **ketidakpastian** (ketidakmampuan memprediksi perilaku orang lain) dan **kegelisahan** (perasaan tidak nyaman)."
+    },
+    {
+        "id": 17,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Berikut ini yang bukan merupakan salah satu dimensi kebudayaan dalam komunikasi antar budaya adalah ....",
+        "pilihan": [
+            "tingkat masyarakat kelompok budaya dari para partisipan",
+            "konteks sosial tempat terjadinya Komunikasi Antar Budaya",
+            "gender dari pelaku komunikasi",
+            "saluran yang dilalui oleh pesan-pesan-KAB (baik yang bersifat verbal maupun nonverbal)."
+        ],
+        "jawabanBenar": "gender dari pelaku komunikasi",
+        "penjelasanSalah": "Tiga dimensi utama KAB adalah tingkat masyarakat, konteks sosial, dan saluran. **Gender** bukanlah dimensi kebudayaan dalam klasifikasi ini."
+    },
+    {
+        "id": 18,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Seorang manajer dari budaya konteks rendah (*low-context*) seperti Jerman memberikan instruksi yang sangat detail dan eksplisit kepada timnya yang berasal dari budaya konteks tinggi (*high-context*) seperti Jepang. Tim tersebut merasa instruksi itu merendahkan kecerdasan mereka. Fenomena ini paling baik dijelaskan oleh aksioma komunikasi antarpribadi yang mana?",
+        "pilihan": [
+            "Komunikasi bersifat *irreversible*.",
+            "Komunikasi interpersonal melibatkan proses penyesuaian.",
+            "Komunikasi memiliki dimensi isi dan hubungan.",
+            "Komunikasi terjadi secara tidak terhindarkan."
+        ],
+        "jawabanBenar": "Komunikasi interpersonal melibatkan proses penyesuaian.",
+        "penjelasanSalah": "Kasus ini menyoroti pentingnya aksioma '**proses penyesuaian**'. Manajer gagal menyesuaikan gaya komunikasinya dengan latar belakang budaya timnya (konteks tinggi menghargai komunikasi implisit), yang menyebabkan kesalahpahaman."
+    },
+    {
+        "id": 19,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Dua orang teman, Rian dan Siska, sedang berdebat melalui pesan teks. Rian mengirim pesan, 'Terserah kamu saja.' dengan maksud tulus memberikan kebebasan, namun Siska menginterpretasikannya sebagai tanda kemarahan dan ketidakpedulian. Jenis '*noise*' (gangguan) apa yang paling dominan dalam situasi ini?",
+        "pilihan": [
+            "Gangguan fisik",
+            "Gangguan psikologis",
+            "Gangguan semantik",
+            "Gangguan saluran"
+        ],
+        "jawabanBenar": "Gangguan semantik",
+        "penjelasanSalah": "**Gangguan semantik** terjadi ketika ada perbedaan makna yang dilekatkan pada simbol atau kata-kata. Frasa tersebut memiliki makna yang berbeda bagi Rian dan Siska."
+    },
+    {
+        "id": 20,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Seorang mahasiswa baru merasa canggung saat berinteraksi dengan dosennya. Percakapan mereka hanya seputar tugas dan jadwal kuliah. Menurut pendekatan pengembangan (*developmental approach*), apa yang harus terjadi agar komunikasi mereka dapat dianggap sebagai komunikasi antarpribadi yang lebih matang?",
+        "pilihan": [
+            "Mereka harus bertemu tatap muka lebih sering.",
+            "Percakapan mereka harus beralih dari impersonal menjadi lebih personal dan intim.",
+            "Dosen harus memberikan umpan balik yang lebih cepat kepada mahasiswa.",
+            "Mereka harus memastikan tidak ada gangguan semantik dalam percakapan."
+        ],
+        "jawabanBenar": "Percakapan mereka harus beralih dari impersonal menjadi lebih personal dan intim.",
+        "penjelasanSalah": "Pendekatan pengembangan melihat komunikasi antarpribadi sebagai proses evolusi dari yang bersifat **tak-pribadi (*impersonal*) menjadi lebih pribadi dan intim**."
+    },
+    {
+        "id": 21,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Seorang ekspatriat Amerika (budaya individualistis) merasa frustrasi karena rekan kerjanya di Indonesia (budaya kolektivistis) selalu mengambil keputusan secara kelompok dan lambat. Sementara itu, rekan-rekan Indonesianya merasa si ekspatriat terlalu terburu-buru dan tidak menghargai konsensus. Dimensi perbedaan budaya manakah yang menjadi akar utama konflik ini?",
+        "pilihan": [
+            "Jarak Kekuasaan (*Power Distance*)",
+            "Maskulin vs Feminin",
+            "Orientasi Individu vs Kolektif",
+            "Penghindaran Ketidakpastian"
+        ],
+        "jawabanBenar": "Orientasi Individu vs Kolektif",
+        "penjelasanSalah": "Konflik ini secara langsung mencerminkan perbedaan antara **orientasi individu** (Amerika: menekankan kecepatan dan pribadi) dan **kolektif** (Indonesia: menekankan harmoni kelompok dan konsensus)."
+    },
+{
+        "id": 22,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Dalam sebuah rapat *online*, seorang peserta mematikan kameranya dan tidak memberikan respons apapun. Meskipun ia tidak mengucapkan sepatah kata pun, perilakunya ini diinterpretasikan oleh peserta lain sebagai tanda ketidaktertarikan. Fenomena ini paling sesuai dengan aksioma komunikasi yang menyatakan bahwa...",
+        "pilihan": [
+            "Komunikasi memiliki dimensi isi dan hubungan.",
+            "Komunikasi bersifat *irreversible*.",
+            "Komunikasi interpersonal seringkali terjadi secara tidak terhindarkan.",
+            "Komunikasi mendorong terjadinya kesamaan (*simetri*)."
+        ],
+        "jawabanBenar": "Komunikasi interpersonal seringkali terjadi secara tidak terhindarkan.",
+        "penjelasanSalah": "Aksioma '*one cannot not communicate*' menyatakan bahwa diam atau ketiadaan tindakan pun dapat mengirimkan pesan. Perilaku peserta ini adalah sebuah komunikasi yang tidak terhindarkan."
+    },
+    {
+        "id": 23,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Ketika seseorang pertama kali menggunakan aplikasi kencan *online*, ia cenderung menampilkan versi terbaik dari dirinya, bahkan sedikit melebih-lebihkan. Menurut penjelasan tentang *Computer-Mediated Communication* (CMC), fenomena ini terjadi karena...",
+        "pilihan": [
+            "CMC selalu bersifat asinkron (*asynchronous*).",
+            "CMC memungkinkan pengguna membentuk ulang identitas mereka (*identity reformation*).",
+            "CMC selalu menyebabkan fragmentasi sosial.",
+            "CMC memiliki tingkat umpan balik yang lebih rendah daripada komunikasi tatap muka."
+        ],
+        "jawabanBenar": "CMC memungkinkan pengguna membentuk ulang identitas mereka (*identity reformation*).",
+        "penjelasanSalah": "CMC memungkinkan pengguna **membentuk ulang identitas mereka** (*identity reformation*) dan menampilkan versi *online* yang berbeda atau ideal dari dunia nyata."
+    },
+    {
+        "id": 24,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Manakah dari skenario berikut yang paling tepat menggambarkan komunikasi antarpribadi menurut definisi **situasional**, tetapi kurang tepat menurut pendekatan **pengembangan**?",
+        "pilihan": [
+            "Dua sahabat pena yang telah berkomunikasi intens selama 10 tahun melalui surat.",
+            "Seorang anak yang sedang berdebat sengit dengan ibunya mengenai jam malam.",
+            "Seorang kasir dan pembeli yang berinteraksi singkat saat transaksi di supermarket.",
+            "Sepasang kekasih yang menjalin hubungan jarak jauh dan berkomunikasi setiap hari melalui *video call*."
+        ],
+        "jawabanBenar": "Seorang kasir dan pembeli yang berinteraksi singkat saat transaksi di supermarket.",
+        "penjelasanSalah": "Interaksi kasir-pembeli memenuhi syarat **definisi situasional** (dua orang, berdekatan). Namun, menurut pendekatan **pengembangan**, interaksi ini bersifat impersonal, bukan intim."
+    },
+    {
+        "id": 25,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Penggunaan huruf kapital semua (*ALL CAPS*) dalam *email* atau pesan teks sering dianggap sebagai teriakan atau ekspresi kemarahan. Mengapa etika semacam ini diperlukan dalam komunikasi termediasi komputer (CMC)?",
+        "pilihan": [
+            "Karena CMC menghilangkan semua bentuk komunikasi non-verbal.",
+            "Untuk mengkompensasi ketiadaan isyarat vokal (nada suara) dan menciptakan tata krama dalam komunikasi berbasis teks.",
+            "Karena pengguna CMC berasal dari budaya yang sama sehingga memiliki pemahaman yang seragam.",
+            "Untuk mencegah fragmentasi sosial yang disebabkan oleh penyalahgunaan internet."
+        ],
+        "jawabanBenar": "Untuk mengkompensasi ketiadaan isyarat vokal (nada suara) dan menciptakan tata krama dalam komunikasi berbasis teks.",
+        "penjelasanSalah": "*Netiquette* seperti ini diperlukan untuk **mengkompensasi ketiadaan isyarat non-verbal** (seperti nada suara) dalam komunikasi berbasis teks."
+    },
+    {
+        "id": 26,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Setelah pertengkaran hebat, seorang kakak berkata kepada adiknya, 'Lupakan saja semua yang aku katakan tadi.' Meskipun sang adik memaafkan, ia tetap tidak bisa sepenuhnya melupakan kata-kata menyakitkan tersebut. Situasi ini merupakan contoh konkret dari aksioma komunikasi antarpribadi bahwa komunikasi...",
+        "pilihan": [
+            "merupakan serangkaian peristiwa yang kontinu.",
+            "mendorong pola hubungan komplementer.",
+            "bersifat tidak bisa diulangi (*irreversible*).",
+            "melibatkan proses penyesuaian."
+        ],
+        "jawabanBenar": "bersifat tidak bisa diulangi (*irreversible*).",
+        "penjelasanSalah": "Aksioma '**irreversible**' menyatakan bahwa sekali sesuatu dikomunikasikan, pesan itu tidak bisa ditarik kembali atau dihapus seolah-olah tidak pernah terjadi, meskipun dampaknya dapat diperbaiki."
+    },
+    {
+        "id": 27,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Seorang turis di negara dengan budaya penghindaran ketidakpastian (*uncertainty avoidance*) yang tinggi mungkin akan merasa bingung dan tidak nyaman karena...",
+        "pilihan": [
+            "Orang-orang di sana sangat kompetitif dan tegas.",
+            "Masyarakatnya sangat terbuka terhadap perubahan dan ide-ide baru yang tidak biasa.",
+            "Terdapat banyak aturan yang ketat, jadwal yang terstruktur, dan sedikit toleransi terhadap perilaku yang menyimpang.",
+            "Keputusan sering dibuat berdasarkan konteks dan hubungan, bukan aturan eksplisit."
+        ],
+        "jawabanBenar": "Terdapat banyak aturan yang ketat, jadwal yang terstruktur, dan sedikit toleransi terhadap perilaku yang menyimpang.",
+        "penjelasanSalah": "Budaya dengan **penghindaran ketidakpastian yang tinggi** tidak menyukai ambiguitas, sehingga mereka menciptakan aturan yang ketat, prosedur yang baku, dan jadwal yang terstruktur."
+    },
+    {
+        "id": 28,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Seorang pengguna media sosial menyebarkan rumor tidak benar tentang temannya dalam sebuah grup percakapan. Tindakannya ini dapat menimbulkan perpecahan dan merusak kepercayaan di antara anggota grup. Perilaku ini melanggar etika komunikasi termediasi komputer karena...",
+        "pilihan": [
+            "Menggunakan komunikasi yang bersifat asinkron.",
+            "Gagal membentuk ulang identitasnya secara positif.",
+            "Menyebabkan potensi fragmentasi sosial dan mengabaikan tata krama.",
+            "Terlalu mengandalkan pesan berbasis teks daripada tatap muka."
+        ],
+        "jawabanBenar": "Menyebabkan potensi fragmentasi sosial dan mengabaikan tata krama.",
+        "penjelasanSalah": "Tindakan tersebut menyebabkan **fragmentasi sosial** (merusak keharmonisan) dan melanggar etika (*netiquette*) komunikasi yang baik."
+    },
+    {
+        "id": 29,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Seorang manajer dari Amerika Serikat (budaya individualistis & konteks rendah) memberikan kritik yang sangat langsung dan blak-blakan kepada bawahannya yang berasal dari Jepang (budaya kolektivistis & konteks tinggi). Sang bawahan merasa sangat dipermalukan. Benturan budaya ini terutama disebabkan oleh perbedaan dalam...",
+        "pilihan": [
+            "Jarak kekuasaan dan orientasi maskulin/feminin.",
+            "Orientasi individu/kolektif dan cara berkomunikasi konteks tinggi/rendah.",
+            "Penghindaran ketidakpastian dan jarak kekuasaan.",
+            "Orientasi maskulin/feminin dan penghindaran ketidakpastian."
+        ],
+        "jawabanBenar": "Orientasi individu/kolektif dan cara berkomunikasi konteks tinggi/rendah.",
+        "penjelasanSalah": "Konflik ini berakar pada dimensi **individualisme/kolektivisme** (keharmonisan vs. pribadi) dan **konteks tinggi/rendah** (komunikasi implisit vs. eksplisit)."
+    },
+    {
+        "id": 30,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Aksioma komunikasi yang menyatakan bahwa komunikasi bersifat '*irreversible*' (tidak dapat diubah) berarti bahwa...",
+        "pilihan": [
+            "Permintaan maaf tidak berguna karena pesan yang sudah terkirim tidak dapat ditarik kembali.",
+            "Kita tidak dapat berhenti berkomunikasi, bahkan saat kita diam.",
+            "Meskipun kita dapat mencoba memperbaiki dampaknya, tindakan komunikasi itu sendiri telah terjadi dan tidak dapat dihapus dari sejarah hubungan.",
+            "Setiap pesan komunikasi memiliki dimensi isi dan dimensi hubungan."
+        ],
+        "jawabanBenar": "Meskipun kita dapat mencoba memperbaiki dampaknya, tindakan komunikasi itu sendiri telah terjadi dan tidak dapat dihapus dari sejarah hubungan.",
+        "penjelasanSalah": "Sifat '**irreversible**' berarti tindakan komunikasi, sekali dilakukan, tidak bisa ditarik kembali seolah-olah tidak pernah terjadi, meskipun dampaknya dapat dikurangi."
+    },
+    {
+        "id": 31,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Perhatikan beberapa komponen dalam proses komunikasi berikut: (1) Enkoding adalah proses yang dilakukan oleh penerima untuk menafsirkan simbol-simbol pesan. (2) Konteks sosial-psikologis mencakup status hubungan dan suasana formal atau informal antara komunikator. (3) Umpan balik (*feedback*) hanya dapat disampaikan secara verbal setelah pesan utama selesai diterima. (4) Gangguan (*noise*) bisa bersifat internal, seperti perasaan cemas yang membuat sulit fokus pada percakapan. Kombinasi pernyataan yang paling akurat mengenai komponen komunikasi adalah...",
+        "pilihan": [
+            "Jika (1) dan (3) benar",
+            "Jika (2) dan (4) benar",
+            "Jika (1), (2), dan (3) benar",
+            "Jika semua pernyataan benar"
+        ],
+        "jawabanBenar": "Jika (2) dan (4) benar",
+        "penjelasanSalah": "Pernyataan (2) dan (4) benar. Pernyataan (1) salah (**Dekoding** dilakukan oleh penerima), dan Pernyataan (3) salah (*feedback* bisa non-verbal dan simultan)."
+    },
+    {
+        "id": 32,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Analisis terhadap karakteristik komunikasi antarpribadi menunjukkan beberapa hal berikut: (1) Kehadiran fisik dan interaksi tatap muka adalah syarat mutlak agar sebuah komunikasi dapat disebut antarpribadi. (2) Komunikasi antarpribadi selalu didasari oleh tujuan yang jelas dan kesadaran penuh dari para pelakunya. (3) Sebuah interaksi dapat dianggap komunikasi antarpribadi meskipun tidak menghasilkan efek atau pengaruh yang nyata pada partisipan. (4) Konteks, seperti sejarah hubungan dan situasi psikologis, sangat mempengaruhi makna dari sebuah pesan yang disampaikan. Manakah pernyataan yang paling akurat?",
+        "pilihan": [
+            "Hanya (4) yang benar",
+            "Jika (1) dan (2) benar",
+            "Jika (3) dan (4) benar",
+            "Jika semua pernyataan salah"
+        ],
+        "jawabanBenar": "Hanya (4) yang benar",
+        "penjelasanSalah": "Hanya Pernyataan (4) yang benar. (1) salah (tidak harus tatap muka), (2) salah (bisa spontan), (3) salah (harus menghasilkan efek)."
+    },
+    {
+        "id": 33,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Perhatikan deskripsi budaya berikut: (1) Dalam budaya A, orang cenderung berbicara langsung pada intinya dan pesan verbal dianggap paling penting. (2) Budaya B sangat menghargai senioritas; bawahan tidak akan berani menyela atau menentang atasan secara terbuka. (3) Di budaya C, pencapaian individu dan kompetisi sangat dihargai sebagai jalan menuju kesuksesan. (4) Dalam budaya D, orang merasa nyaman dengan situasi yang ambigu dan tidak memerlukan banyak aturan formal. Pasangan deskripsi budaya dan dimensi Hofstede yang tepat adalah...",
+        "pilihan": [
+            "(1) Konteks Rendah dan (3) Kolektivisme",
+            "(2) Jarak Kekuasaan Rendah dan (4) Penghindaran Ketidakpastian Tinggi",
+            "(1) Konteks Rendah dan (2) Jarak Kekuasaan Tinggi",
+            "(3) Feminin dan (4) Konteks Tinggi"
+        ],
+        "jawabanBenar": "(1) Konteks Rendah dan (2) Jarak Kekuasaan Tinggi",
+        "penjelasanSalah": "(1) adalah ciri **Konteks Rendah**. (2) adalah ciri **Jarak Kekuasaan Tinggi**."
+    },
+    {
+        "id": 34,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Kompetensi komunikasi antarbudaya merupakan kemampuan yang kompleks. Beberapa elemen pendukungnya adalah: (1) Motivasi untuk berinteraksi dengan orang dari budaya lain. (2) Pengetahuan mengenai norma dan nilai budaya lain. (3) Kemampuan untuk bersikap kaku dan mempertahankan cara berkomunikasi dari budaya asal untuk menunjukkan identitas. (4) Kemampuan untuk mengelola perasaan gelisah saat menghadapi situasi yang tidak familiar. Elemen-elemen yang berkontribusi positif terhadap peningkatan kompetensi komunikasi antarbudaya adalah...",
+        "pilihan": [
+            "Jika (1), (2), dan (3) benar",
+            "Jika (1) dan (3) benar",
+            "Jika (2) dan (4) benar",
+            "Jika (1), (2), dan (4) benar"
+        ],
+        "jawabanBenar": "Jika (1), (2), dan (4) benar",
+        "penjelasanSalah": "Pernyataan (1), (2), dan (4) benar. Pernyataan (3) salah, karena kompetensi antarbudaya membutuhkan **fleksibilitas**, bukan kekakuan."
+    },
+    {
+        "id": 35,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Berikut adalah beberapa pernyataan mengenai komunikasi antarpribadi yang dimediasi komputer (CMC): (1) CMC selalu terjadi secara sinkron (*synchronous*), seperti dalam percakapan *video call*. (2) Etika di dunia maya tidak diperlukan karena interaksi terjadi secara virtual dan anonim. (3) Salah satu keunggulan CMC adalah kemampuannya mengatasi kendala jarak dan waktu dalam berkomunikasi. (4) Interaksi melalui CMC cenderung lebih cepat membuat orang merasa intim seolah-olah sudah lama kenal. Kombinasi pernyataan yang paling akurat adalah...",
+        "pilihan": [
+            "Jika (1) dan (2) benar",
+            "Jika (3) dan (4) benar",
+            "Jika (1), (3), dan (4) benar",
+            "Jika semua pernyataan benar"
+        ],
+        "jawabanBenar": "Jika (3) dan (4) benar",
+        "penjelasanSalah": "Pernyataan (3) dan (4) benar. (1) salah (bisa asinkron), dan (2) salah (etika diperlukan)."
+    },
+    {
+        "id": 36,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Hubungan Antar Pernyataan: Pernyataan I: Komunikasi antarpribadi antara dua orang yang memiliki hubungan sangat dekat, seperti ibu dan anak, dapat diklasifikasikan menggunakan definisi kualitatif. Pernyataan II: Definisi kualitatif menekankan pada kualitas interaksi dan bagaimana cara individu saling menghadapi satu sama lain, bukan pada jumlah partisipan.",
+        "pilihan": [
+            "Jika Pernyataan I benar, Pernyataan II benar, dan keduanya menunjukkan hubungan sebab-akibat.",
+            "Jika Pernyataan I benar, Pernyataan II benar, tetapi keduanya tidak menunjukkan hubungan sebab-akibat.",
+            "Jika Pernyataan I benar dan Pernyataan II salah.",
+            "Jika Pernyataan I salah dan Pernyataan II benar."
+        ],
+        "jawabanBenar": "Jika Pernyataan I benar, Pernyataan II benar, dan keduanya menunjukkan hubungan sebab-akibat.",
+        "penjelasanSalah": "Pernyataan I benar **karena** Definisi Kualitatif (Pernyataan II) memang berfokus pada kualitas interaksi yang dalam."
+    },
+    {
+        "id": 37,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Hubungan Antar Pernyataan: Pernyataan I: Seseorang yang berasal dari budaya feminin cenderung lebih menghargai pengasuhan, kualitas hidup, dan perasaan dalam berkomunikasi. Pernyataan II: Budaya feminin menganggap penting kompetisi, ketegasan, dan kesuksesan material dalam struktur sosialnya.",
+        "pilihan": [
+            "Jika Pernyataan I benar, Pernyataan II benar, dan keduanya menunjukkan hubungan sebab-akibat.",
+            "Jika Pernyataan I benar, Pernyataan II benar, tetapi keduanya tidak menunjukkan hubungan sebab-akibat.",
+            "Jika Pernyataan I benar dan Pernyataan II salah.",
+            "Jika Pernyataan I salah dan Pernyataan II benar."
+        ],
+        "jawabanBenar": "Jika Pernyataan I benar dan Pernyataan II salah.",
+        "penjelasanSalah": "Pernyataan I benar. Pernyataan II salah, karena deskripsi tersebut adalah ciri-ciri dari **budaya maskulin**."
+    },
+    {
+        "id": 38,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Hubungan Antar Pernyataan: Pernyataan I: Menurut pendekatan diadik, komunikasi antara seorang pramugari dengan penumpang yang menanyakan letak toilet dapat dianggap komunikasi antarpribadi. Pernyataan II: Pendekatan diadik mendefinisikan komunikasi antarpribadi sebagai komunikasi antara dua orang yang memiliki hubungan yang mantap dan jelas.",
+        "pilihan": [
+            "Jika Pernyataan I benar, Pernyataan II benar, dan keduanya menunjukkan hubungan sebab-akibat.",
+            "Jika Pernyataan I benar, Pernyataan II benar, tetapi keduanya tidak menunjukkan hubungan sebab-akibat.",
+            "Jika Pernyataan I benar dan Pernyataan II salah.",
+            "Jika Pernyataan I salah dan Pernyataan II benar."
+        ],
+        "jawabanBenar": "Jika Pernyataan I benar dan Pernyataan II salah.",
+        "penjelasanSalah": "Pernyataan I benar (diadik = dua orang). Pernyataan II salah (hubungan mantap dan jelas adalah fokus kualitatif/pengembangan)."
+    },
+    {
+        "id": 39,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Hubungan Antar Pernyataan: Pernyataan I: Komunikasi antarpribadi yang efektif seringkali ditandai dengan arus pesan yang cenderung dua arah dan tingkat umpan balik yang tinggi. Pernyataan II: Proses komunikasi antarpribadi bersifat statis, dimana peran pengirim dan penerima tidak berubah selama interaksi berlangsung.",
+        "pilihan": [
+            "Jika Pernyataan I benar, Pernyataan II benar, dan keduanya menunjukkan hubungan sebab-akibat.",
+            "Jika Pernyataan I benar, Pernyataan II benar, tetapi keduanya tidak menunjukkan hubungan sebab-akibat.",
+            "Jika Pernyataan I benar dan Pernyataan II salah.",
+            "Jika Pernyataan I salah dan Pernyataan II benar."
+        ],
+        "jawabanBenar": "Jika Pernyataan I benar dan Pernyataan II salah.",
+        "penjelasanSalah": "Pernyataan I benar. Pernyataan II salah, karena proses komunikasi antarpribadi bersifat **dinamis dan transaksional**."
+    },
+    {
+        "id": 40,
+        "mataPelajaran": "Komunikasi Antarpribadi",
+        "pertanyaan": "Hubungan Antar Pernyataan: Pernyataan I: Komunikasi yang terjadi di media *online* tidak memerlukan tata krama karena interaksi berlangsung di dunia virtual, bukan dunia nyata. Pernyataan II: Perbedaan latar belakang budaya pengguna internet yang sangat beragam membuka peluang terjadinya konflik dan kesalahpahaman.",
+        "pilihan": [
+            "Jika Pernyataan I benar, Pernyataan II benar, dan keduanya menunjukkan hubungan sebab-akibat.",
+            "Jika Pernyataan I benar, Pernyataan II benar, tetapi keduanya tidak menunjukkan hubungan sebab-akibat.",
+            "Jika Pernyataan I benar dan Pernyataan II salah.",
+            "Jika Pernyataan I salah dan Pernyataan II benar."
+        ],
+        "jawabanBenar": "Jika Pernyataan I salah dan Pernyataan II benar.",
+        "penjelasanSalah": "Pernyataan I salah (etika diperlukan). Pernyataan II benar (keragaman budaya menimbulkan risiko konflik)."
+    }
+]

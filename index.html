@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuis Interaktif Pilihan Ganda</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Aplikasi Kuis Interaktif</h1>
+    </header>
+
+    <div class="container">
+        <aside id="sidebar">
+            <h2>Daftar Pelajaran</h2>
+            <ul id="subject-list">
+                </ul>
+        </aside>
+
+        <main id="main-content">
+           <div id="welcome-screen">
+    <h2>Selamat Datang!</h2>
+    <p id="welcome-message">Silakan pilih mata pelajaran dari sidebar di sebelah kiri untuk memulai kuis.</p>
+</div>
+
+            <div id="quiz-area" style="display: none;">
+                <h3 id="subject-title"></h3>
+                <p id="question-text"></p>
+                <div id="options-container" class="options">
+                    </div>
+                <div id="feedback-area" class="feedback"></div>
+                
+                <button id="next-button" style="display: none;">Soal Selanjutnya &rarr;</button>
+            </div>
+
+            <div id="result-area" class="result-box" style="display: none;">
+                <h2>🎉 Kuis Selesai! 🎉</h2>
+                <p>Mata Pelajaran: <span id="final-subject"></span></p>
+                <p>Total Soal: <span id="total-questions"></span></p>
+                <h3 id="final-score-text"></h3>
+                <button onclick="window.location.reload()">Mulai Kuis Baru</button>
+            </div>
+        </main>
+    </div>
+
+    <footer>
+        <p>&copy; 2023 Kuis Interaktif</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

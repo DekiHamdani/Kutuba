@@ -1,0 +1,366 @@
+[
+    {
+        "id": 1,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Proses psikologis yang diasosiasikan dengan interpretasi dan pemberian makna terhadap orang atau objek tertentu, dikenal sebagai ....",
+        "pilihan": [
+            "persepsi",
+            "intuisi",
+            "atensi",
+            "seleksi"
+        ],
+        "jawabanBenar": "persepsi",
+        "penjelasanSalah": "Persepsi adalah istilah yang tepat untuk proses psikologis yang melibatkan interpretasi dan pemberian makna terhadap stimulus yang diterima dari lingkungan, baik itu orang maupun objek. Intuisi adalah perasaan atau pemahaman langsung tanpa penalaran sadar, sementara atensi dan seleksi adalah bagian dari tahapan awal dalam proses persepsi, bukan proses keseluruhannya. (Modul 2: Hal 5, 7)"
+    },
+    {
+        "id": 2,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Persepsi merupakan inti komunikasi sedangkan penafsiran (interpretasi) merupakan ....",
+        "pilihan": [
+            "inti komunikasi antarpribadi",
+            "inti interaksi",
+            "inti persepsi",
+            "tujuan komunikasi"
+        ],
+        "jawabanBenar": "inti persepsi",
+        "penjelasanSalah": "Dalam proses komunikasi, persepsi adalah intinya karena semua pemaknaan berawal dari sini. Lebih lanjut, inti dari proses persepsi itu sendiri adalah penafsiran atau interpretasi, yaitu proses memberikan makna pada rangsangan indrawi yang telah diterima dan diorganisasikan. (Modul 2: Hal 4)"
+    },
+    {
+        "id": 3,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Persepsi ialah memberikan makna pada rangsangan pancaindra (sensory stimuli), yakni ....",
+        "pilihan": [
+            "penglihatan",
+            "penciuman",
+            "peraba dan pendengaran",
+            "semua benar"
+        ],
+        "jawabanBenar": "semua benar",
+        "penjelasanSalah": "Proses persepsi dimulai dari masuknya informasi melalui kelima panca indra manusia, yang meliputi penglihatan, penciuman, peraba, pendengaran, dan perasa (pengecapan). Semua indra ini berperan sebagai gerbang masuknya stimulus dari lingkungan untuk kemudian diberi makna. (Modul 2: Hal 4)"
+    },
+    {
+        "id": 4,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Berikut ini yang **bukan** merupakan definisi persepsi adalah ....",
+        "pilihan": [
+            "proses di mana kita menjadi sadar terhadap sebuah objek, kejadian dan terutama orang lain melalui panca indra, meliputi penglihatan, penciuman, perasa, sentuhan dan pendengaran.",
+            "proses psikologis yang diasosiasikan dengan interpretasi dan pemberian makna terhadap orang atau objek tertentu",
+            "memberikan makna pada rangsangan pancaindra (sensory stimuli), yakni penglihatan, penciuman, peraba dan pendengaran.",
+            "proses penyampaian pesan dari komunikator ke komunikan melalui saluran tertentu dan menghasilkan feedback"
+        ],
+        "jawabanBenar": "proses penyampaian pesan dari komunikator ke komunikan melalui saluran tertentu dan menghasilkan feedback",
+        "penjelasanSalah": "Pilihan A, B, dan C adalah definisi-definisi persepsi yang dibahas dalam modul. Pilihan D adalah definisi dari proses komunikasi secara umum, yang mencakup elemen komunikator, pesan, saluran, komunikan, dan umpan balik, bukan definisi spesifik dari persepsi. (Modul 2: Hal 3-5)"
+    },
+    {
+        "id": 5,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Berikut ini yang merupakan termasuk sifat-sifat persepsi adalah ....",
+        "pilihan": [
+            "persepsi adalah pengalaman",
+            "persepsi adalah penyimpulan",
+            "persepsi tidak akurat",
+            "semua jawaban benar"
+        ],
+        "jawabanBenar": "semua jawaban benar",
+        "penjelasanSalah": "Modul ini menjelaskan lima sifat persepsi, yaitu persepsi adalah pengalaman, selektif, penyimpulan, tidak akurat, dan evaluatif. Oleh karena itu, semua pilihan yang disebutkan (A, B, dan C) adalah benar merupakan sifat-sifat persepsi. (Modul 2: Hal 12-13)"
+    },
+    {
+        "id": 6,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Berikut ini yang merupakan elemen-elemen persepsi adalah ....",
+        "pilihan": [
+            "sensasi pengindraan dan interpretasi, Genre, bentuk dan latar belakang",
+            "exposure, harapan, figure and backgorund",
+            "sensasi pengindraan dan interpretasi, harapan, attention",
+            "sensasi pengindraan dan interpretasi, harapan, figure and backgorund"
+        ],
+        "jawabanBenar": "sensasi pengindraan dan interpretasi, harapan, figure and backgorund",
+        "penjelasanSalah": "Elemen-elemen persepsi yang dibahas meliputi (1) sensasi pengindraan dan interpretasi yang terjadi simultan, (2) harapan yang mengarahkan persepsi, (3) kemampuan membedakan bentuk dan latar belakang (figure & background), (4) perbandingan, dan (5) pengaruh konteks. Pilihan D mencakup tiga dari elemen-elemen inti tersebut. (Modul 2: Hal 15-16)"
+    },
+    {
+        "id": 7,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Di bawah ini yang **bukan** merupakan tahapan persepsi menurut DeVito adalah ....",
+        "pilihan": [
+            "seleksi",
+            "organisasi",
+            "intuisi",
+            "interpretasi"
+        ],
+        "jawabanBenar": "intuisi",
+        "penjelasanSalah": "Menurut DeVito, lima tahapan persepsi adalah (1) Seleksi, (2) Organisasi, (3) Interpretasi Evaluasi, (4) Memori, dan (5) Mengingat Kembali. Intuisi tidak termasuk dalam model tahapan persepsi yang sistematis ini. (Modul 2: Hal 10)"
+    },
+    {
+        "id": 8,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Berikut ini merupakan faktor penyebab kegagalan persepsi, **kecuali** ....",
+        "pilihan": [
+            "noise",
+            "efek halo",
+            "stereotipe",
+            "prasangka"
+        ],
+        "jawabanBenar": "noise",
+        "penjelasanSalah": "Efek halo, stereotipe, dan prasangka adalah bentuk-bentuk kesalahan atau kekeliruan dalam proses persepsi yang dapat menyebabkan kegagalan dalam memahami orang atau situasi secara akurat. Noise (gangguan) adalah faktor yang mendistorsi pesan dalam proses komunikasi secara umum, bukan secara spesifik merupakan bentuk kekeliruan persepsi itu sendiri, meskipun bisa mempengaruhinya. (Modul 2: Hal 15)"
+    },
+    {
+        "id": 9,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Berikut ini yang merupakan faktor yang mempengaruhi persepsi adalah ....",
+        "pilihan": [
+            "genre",
+            "situasi",
+            "kontak",
+            "atensi"
+        ],
+        "jawabanBenar": "situasi",
+        "penjelasanSalah": "Menurut Robins, tiga faktor utama yang mempengaruhi persepsi adalah (1) Penerima (dengan segala karakteristik pribadinya), (2) Target atau sasaran yang dipersepsi, dan (3) Situasi atau konteks di mana persepsi itu terjadi. Atensi adalah bagian dari proses persepsi, bukan faktor eksternal yang mempengaruhinya. (Modul 2: Hal 17)"
+    },
+    {
+        "id": 10,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Persepsi evaluatif seseorang terhadap dirinya sendiri, disebut ....",
+        "pilihan": [
+            "konsep diri",
+            "self esteem",
+            "atensi",
+            "evaluasi"
+        ],
+        "jawabanBenar": "self esteem",
+        "penjelasanSalah": "Self-esteem secara spesifik didefinisikan sebagai persepsi evaluatif seseorang terhadap dirinya sendiri. Ini adalah komponen dari konsep diri yang lebih luas, yang mencakup penilaian (baik/buruk, berharga/tidak) terhadap diri sendiri. (Modul 2: Hal 22)"
+    },
+    {
+        "id": 11,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Berikut ini merupakan elemen kesadaran diri menurut Fisher, **kecuali** ...",
+        "pilihan": [
+            "self esteem",
+            "konsep diri",
+            "Social self",
+            "multiple selves"
+        ],
+        "jawabanBenar": "Social self",
+        "penjelasanSalah": "Meskipun dalam modul dibahas mengenai 'social self' sebagai salah satu proses perkembangan kesadaran diri, pertanyaan ini merujuk pada elemen kesadaran diri menurut Fisher yang tidak secara eksplisit dirinci dalam modul. Namun, 'social self' adalah sebuah proses, sedangkan 'self esteem', 'konsep diri', dan 'multiple selves' adalah komponen atau aspek dari diri itu sendiri. (Modul 2: Hal 23, 25)"
+    },
+    {
+        "id": 12,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Proses perkembangan kesadaran diri diperoleh melalui tiga konsep, yaitu ....",
+        "pilihan": [
+            "reflective, social self, dan becoming self",
+            "reflexive, social self, dan becoming self",
+            "reflexive, social self, dan self esteem",
+            "reflective, social self, dan self esteem"
+        ],
+        "jawabanBenar": "reflexive, social self, dan becoming self",
+        "penjelasanSalah": "Tiga konsep kunci dalam proses perkembangan kesadaran diri adalah (1) reflexive self (kemampuan melihat diri sendiri sebagai subjek dan objek), (2) social self (menggunakan orang lain sebagai cermin), dan (3) becoming self (konsep diri yang selalu berkembang). Self esteem adalah hasil evaluasi, bukan salah satu dari tiga proses perkembangan ini. (Modul 2: Hal 23)"
+    },
+    {
+        "id": 13,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Ibu Nyoman menganggap Ani, gadis yang berada satu gerbong dengannya, adalah orang yang benar-benar berhati mulia karena ia menawarkan bangku yang didudukinya kepada Bu Nyoman yang berdiri sambil menggendong bayinya. Hal ini merupakan contoh dari bentuk kekeliruan persepsi ....",
+        "pilihan": [
+            "kesalahan atribusi",
+            "efek halo",
+            "gegar budaya",
+            "prasangka"
+        ],
+        "jawabanBenar": "efek halo",
+        "penjelasanSalah": "Efek halo (halo effect) adalah kecenderungan untuk membentuk kesan umum (positif atau negatif) tentang seseorang berdasarkan satu sifat atau tindakan tunggal. Dalam kasus ini, satu tindakan positif (memberi bangku) membuat Ibu Nyoman langsung menyimpulkan bahwa Ani adalah orang yang 'berhati mulia' secara keseluruhan, mengabaikan kemungkinan karakteristik lain. (Modul 2: Hal 15)"
+    },
+    {
+        "id": 14,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Dalam skenario wawancara kerja antara Richard dan Andy, Richard langsung menilai Andy sebagai sosok yang tidak rapi dan kurang jujur berdasarkan noda kopi di bajunya dan pembawaannya yang kaku. Tahapan persepsi manakah yang paling menentukan dalam pembentukan kesan pertama Richard yang negatif?",
+        "pilihan": [
+            "Seleksi",
+            "Organisasi",
+            "Interpretasi-Evaluasi",
+            "Mengingat Kembali (Recall)"
+        ],
+        "jawabanBenar": "Interpretasi-Evaluasi",
+        "penjelasanSalah": "Meskipun Richard melakukan seleksi (fokus pada noda kopi dan sikap kaku) dan organisasi (mengelompokkan Andy dengan stereotipnya tentang orang Papua), tahapan yang paling krusial dalam pembentukan kesan negatif adalah Interpretasi-Evaluasi. Pada tahap inilah Richard memberikan makna subjektif ('tidak rapi', 'kurang jujur') pada stimulus yang ia terima, berdasarkan pengalaman, nilai, dan keyakinan pribadinya, bahkan sebelum mendapatkan informasi lengkap. (Modul 2: Hal 10-12)"
+    },
+    {
+        "id": 15,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Seorang siswa yang sangat cerdas tetapi memiliki 'self-esteem' yang rendah seringkali meremehkan pencapaiannya sendiri dan berkata, \"Saya hanya beruntung\" setelah mendapat nilai sempurna. Bagaimana konsep diri mempengaruhi perilaku komunikasinya dalam kasus ini?",
+        "pilihan": [
+            "Ia menggunakan 'social self' untuk mengkonfirmasi keyakinan negatifnya.",
+            "Persepsi evaluatifnya yang rendah terhadap diri sendiri ('self-esteem') membuatnya sulit menerima pujian dan mengatribusikan kesuksesan pada faktor eksternal.",
+            "Ada konflik antara berbagai identitas dalam 'multiple selves'-nya, yaitu antara 'siswa cerdas' dan 'orang yang tidak berharga'.",
+            "'Becoming self'-nya terhambat karena ia menolak informasi positif yang dapat mengubah konsep dirinya."
+        ],
+        "jawabanBenar": "Persepsi evaluatifnya yang rendah terhadap diri sendiri ('self-esteem') membuatnya sulit menerima pujian dan mengatribusikan kesuksesan pada faktor eksternal.",
+        "penjelasanSalah": "Kasus ini secara langsung menggambarkan dampak 'self-esteem' yang rendah terhadap perilaku. 'Self-esteem' adalah persepsi evaluatif terhadap diri. Ketika evaluasi ini negatif, individu cenderung menolak atau merasionalisasi informasi yang bertentangan dengan keyakinan tersebut. Mengatribusikan kesuksesan pada keberuntungan ('faktor eksternal') adalah cara untuk menjaga konsistensi konsep dirinya yang negatif, meskipun bukti objektif (nilai sempurna) menunjukkan sebaliknya. (Modul 2: Hal 22)"
+    },
+    {
+        "id": 16,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Ketika kita bertemu seseorang untuk pertama kalinya, kita cenderung 'melompat ke kesimpulan' tentang kepribadiannya berdasarkan informasi yang sangat terbatas. Sifat persepsi manakah yang paling menjelaskan fenomena ini?",
+        "pilihan": [
+            "Persepsi adalah pengalaman",
+            "Persepsi adalah selektif",
+            "Persepsi adalah penyimpulan",
+            "Persepsi adalah evaluatif"
+        ],
+        "jawabanBenar": "Persepsi adalah penyimpulan",
+        "penjelasanSalah": "Fenomena 'melompat ke kesimpulan' adalah inti dari sifat persepsi sebagai proses penyimpulan. Kita secara inheren membuat interpretasi berdasarkan informasi yang tidak lengkap. Kita mengambil beberapa data yang dapat ditangkap indra (penampilan, cara bicara) dan secara induktif menyimpulkan gambaran yang lebih lengkap tentang orang tersebut, meskipun kesimpulan itu belum tentu akurat. (Modul 2: Hal 13)"
+    },
+    {
+        "id": 17,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Seorang manajer memuji kinerja seorang karyawan di depan umum. Karyawan tersebut merasa bangga dan termotivasi. Reaksi positif dari manajer ini berfungsi sebagai 'cermin' yang memperkuat persepsi karyawan tentang dirinya sebagai pekerja yang kompeten. Proses perkembangan kesadaran diri yang terjadi di sini adalah...",
+        "pilihan": [
+            "Reflexive self",
+            "Social self (Looking-glass self)",
+            "Becoming self",
+            "Multiple selves"
+        ],
+        "jawabanBenar": "Social self (Looking-glass self)",
+        "penjelasanSalah": "Ini adalah contoh klasik dari 'social self' atau 'looking-glass self'. Individu menggunakan reaksi orang lain (dalam hal ini, pujian dari manajer) sebagai cermin atau patokan untuk menilai dan membentuk konsep dirinya. Umpan balik sosial dari manajer memberikan informasi yang digunakan karyawan untuk menyimpulkan, mengartikan, dan mengevaluasi konsep dirinya sebagai pekerja yang kompeten. (Modul 2: Hal 25)"
+    },
+    {
+        "id": 18,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Mengapa pengetahuan yang diperoleh melalui persepsi seringkali dianggap paling terpercaya oleh individu, meskipun secara teoretis tidak pernah sepenuhnya akurat?",
+        "pilihan": [
+            "Karena persepsi selalu bersifat objektif dan didasarkan pada data yang lengkap.",
+            "Karena realitas yang dipersepsikan terasa paling jelas, pribadi, dan penting bagi individu yang mengalaminya.",
+            "Karena proses interpretasi dalam persepsi menghilangkan semua kemungkinan kesalahan.",
+            "Karena panca indra manusia mampu menangkap realitas objek itu sendiri secara langsung."
+        ],
+        "jawabanBenar": "Karena realitas yang dipersepsikan terasa paling jelas, pribadi, dan penting bagi individu yang mengalaminya.",
+        "penjelasanSalah": "Meskipun persepsi memiliki keterbatasan, individu cenderung sangat meyakininya. Alasannya adalah karena realitas yang kita persepsikan terasa sangat personal, jelas, dan signifikan bagi kita. Pengalaman langsung melalui indra kita terasa lebih nyata dan dapat dipercaya daripada informasi abstrak, meskipun pengalaman itu sendiri adalah interpretasi subjektif, bukan realitas objektif. (Modul 2: Hal 5)"
+    },
+    {
+        "id": 19,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Seseorang yang memiliki 'self-monitoring' yang tinggi kemungkinan besar akan...",
+        "pilihan": [
+            "Bertindak sama di semua situasi sosial untuk menunjukkan konsistensi diri.",
+            "Mengabaikan reaksi orang lain karena lebih fokus pada perasaan internalnya.",
+            "Menyesuaikan perilaku dan gaya komunikasinya agar sesuai dengan konteks sosial yang berbeda.",
+            "Memiliki konsep diri yang statis dan sulit berubah."
+        ],
+        "jawabanBenar": "Menyesuaikan perilaku dan gaya komunikasinya agar sesuai dengan konteks sosial yang berbeda.",
+        "penjelasanSalah": "'Self-monitoring' adalah kemampuan untuk menyadari perilaku yang dianggap sesuai untuk situasi sosial tertentu dan menyesuaikan diri. Orang dengan 'self-monitoring' yang tinggi peka terhadap isyarat sosial dan mampu mengubah perilakunya (misalnya, menjadi lebih formal di rapat kerja dan lebih santai bersama teman) agar efektif dalam berbagai konteks. (Modul 2: Hal 25)"
+    },
+    {
+        "id": 20,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Seorang penggemar fanatik tim sepak bola A cenderung hanya mengingat kemenangan-kemenangan gemilang timnya dan melupakan kekalahan kekalahan memalukan. Dalam tahapan persepsi, fenomena ini menunjukkan adanya bias pada tahap...",
+        "pilihan": [
+            "Seleksi dan Organisasi",
+            "Interpretasi-Evaluasi",
+            "Memori dan Mengingat Kembali (Recall)",
+            "Hanya Seleksi"
+        ],
+        "jawabanBenar": "Memori dan Mengingat Kembali (Recall)",
+        "penjelasanSalah": "Fenomena ini paling tepat menggambarkan bias pada tahap Memori dan Mengingat Kembali. Pesan atau informasi dievaluasi dan kemudian disimpan dalam ingatan. Skema kognitif (dalam hal ini, sebagai 'penggemar fanatik') bertindak sebagai filter yang membuat informasi yang konsisten (kemenangan) lebih mudah disimpan dan diingat kembali, sementara informasi yang tidak konsisten (kekalahan) cenderung dilupakan atau didistorsi. (Modul 2: Hal 10-11)"
+    },
+    {
+        "id": 21,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Konsep 'becoming self' menyiratkan bahwa konsep diri adalah proses yang dinamis. Manakah dari pernyataan berikut yang paling tepat merefleksikan implikasi dari konsep ini?",
+        "pilihan": [
+            "Seseorang tidak dapat benar-benar mengubah siapa dirinya setelah mencapai usia dewasa.",
+            "Identitas diri yang kita miliki saat ini adalah hasil akhir dari semua pengalaman masa lalu kita.",
+            "Setiap interaksi dan pengalaman baru berpotensi untuk memperkuat atau mengubah persepsi kita tentang diri sendiri secara gradual.",
+            "Konsep diri hanya berubah secara drastis setelah mengalami peristiwa yang mengubah hidup."
+        ],
+        "jawabanBenar": "Setiap interaksi dan pengalaman baru berpotensi untuk memperkuat atau mengubah persepsi kita tentang diri sendiri secara gradual.",
+        "penjelasanSalah": "Inti dari 'becoming self' adalah bahwa konsep diri tidak pernah final atau tetap, melainkan selalu 'dalam proses menjadi'. Ini berarti setiap informasi baru dari interaksi sehari-hari akan terus menerpa dan mempengaruhi konsep diri kita. Perubahan ini bersifat gradual dan kontinu, bukan sesuatu yang berhenti atau hanya terjadi saat ada peristiwa besar. (Modul 2: Hal 26)"
+    },
+    {
+        "id": 22,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Seorang individu menggambarkan dirinya sebagai 'seorang ayah, seorang insinyur, dan seorang penggemar musik jazz'. Penggambaran ini paling sesuai dengan kategori konsep diri yang mana?",
+        "pilihan": [
+            "Karakteristik pribadi",
+            "Karakteristik sosial",
+            "Peran sosial",
+            "Self-esteem"
+        ],
+        "jawabanBenar": "Peran sosial",
+        "penjelasanSalah": "Istilah 'ayah', 'insinyur', dan 'penggemar musik jazz' semuanya mendefinisikan hubungan individu tersebut dengan orang lain atau masyarakat dalam konteks tertentu. 'Ayah' adalah peran dalam keluarga, 'insinyur' adalah peran profesional, dan 'penggemar musik jazz' adalah afiliasi dalam komunitas. Ini semua adalah contoh dari peran sosial yang membentuk bagian dari konsep diri seseorang. (Modul 2: Hal 21)"
+    },
+    {
+        "id": 23,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Perbedaan fundamental antara sensasi dan persepsi adalah...",
+        "pilihan": [
+            "Sensasi terjadi di otak, sementara persepsi terjadi di panca indra.",
+            "Sensasi adalah proses menangkap stimulus mentah dari lingkungan, sedangkan persepsi adalah proses memberikan makna dan interpretasi pada stimulus tersebut.",
+            "Sensasi bersifat subjektif, sedangkan persepsi bersifat objektif.",
+            "Sensasi hanya melibatkan indra penglihatan dan pendengaran, sementara persepsi melibatkan semua panca indra."
+        ],
+        "jawabanBenar": "Sensasi adalah proses menangkap stimulus mentah dari lingkungan, sedangkan persepsi adalah proses memberikan makna dan interpretasi pada stimulus tersebut.",
+        "penjelasanSalah": "Modul membedakan dengan jelas antara keduanya. Sensasi (pengindraan) adalah tahap awal di mana panca indra menangkap data atau stimulus mentah dari dunia luar (misalnya, gelombang cahaya, getaran suara). Persepsi adalah proses psikologis selanjutnya yang jauh lebih kompleks, di mana otak mengorganisasi, menginterpretasi, dan memberi makna pada data mentah tersebut. Singkatnya, sensasi adalah 'merasakan', persepsi adalah 'memahami'. (Modul 2: Hal 4, 15)"
+    },
+    {
+        "id": 24,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Perhatikan sifat-sifat persepsi berikut: (1) Persepsi bersifat evaluatif, artinya kita cenderung memberikan penilaian baik atau buruk terhadap objek yang dipersepsi. (2) Persepsi bersifat penyimpulan, dimana kita menarik kesimpulan dari informasi yang seringkali tidak lengkap. (3) Persepsi dapat mencapai akurasi absolut jika pengamat dapat menghilangkan semua pengalaman masa lalunya. (4) Persepsi bersifat selektif, dimana kita hanya fokus pada sebagian stimulus dan mengabaikan yang lain. Kombinasi pernyataan yang paling akurat mengenai sifat-sifat persepsi adalah...",
+        "pilihan": [
+            "Jika (1), (2), dan (3) benar",
+            "Jika (1), (3), dan (4) benar",
+            "Jika (1), (2), dan (4) benar",
+            "Jika semua pernyataan benar"
+        ],
+        "jawabanBenar": "Jika (1), (2), dan (4) benar",
+        "penjelasanSalah": "Pernyataan (1), (2), dan (4) adalah deskripsi yang akurat tentang sifat-sifat persepsi yang dijelaskan dalam modul. Pernyataan (3) salah. Justru sebaliknya, persepsi tidak mungkin akurat secara absolut dan tidak mungkin terjadi tanpa landasan pengalaman masa lalu. Pengalaman adalah dasar untuk melakukan interpretasi, meskipun juga menjadi sumber bias. (Modul 2: Hal 12-13)"
+    },
+    {
+        "id": 25,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Analisis terhadap konsep diri mengungkapkan beberapa aspek berikut: (1) 'Self-esteem' adalah kondisi emosional sementara, seperti rasa sedih setelah mengalami kegagalan. (2) Konsep 'multiple selves' menunjukkan bahwa individu memiliki berbagai identitas yang berkaitan dengan peran sosialnya yang berbeda. (3) 'Diri ideal' adalah persepsi kita tentang bagaimana orang lain memandang diri kita. (4) Proses 'becoming self' mengindikasikan bahwa konsep diri secara konstan berkembang melalui interaksi. Aspek-aspek konsep diri yang dijelaskan dengan tepat adalah...",
+        "pilihan": [
+            "Jika (1) dan (3) benar",
+            "Jika (1) dan (2) benar",
+            "Jika (2) dan (4) benar",
+            "Jika (3) dan (4) benar"
+        ],
+        "jawabanBenar": "Jika (2) dan (4) benar",
+        "penjelasanSalah": "Pernyataan (2) benar, 'multiple selves' mengacu pada berbagai peran yang kita mainkan (misal: sebagai anak, mahasiswa, teman). Pernyataan (4) benar, 'becoming self' menekankan sifat dinamis dan berkembang dari konsep diri. Pernyataan (1) salah, 'self-esteem' bersifat lebih mendalam dan langgeng, bukan reaksi temporal. Pernyataan (3) salah, 'diri ideal' adalah persepsi kita tentang kita ingin menjadi apa, sedangkan persepsi kita tentang pandangan orang lain disebut 'meta persepsi'. (Modul 2: Hal 22-23, 26)"
+    },
+    {
+        "id": 26,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Perhatikan tahapan-tahapan persepsi berikut: (1) Seleksi: Pikiran secara aktif memilih stimulus mana dari lingkungan yang akan diberi perhatian. (2) Organisasi: Informasi yang telah diseleksi kemudian dikelompokkan berdasarkan kedekatan atau kemiripan untuk mempermudah pemahaman. (3) Interpretasi: Tahap menyimpan informasi yang telah diberi makna ke dalam skema kognitif untuk digunakan di masa depan. (4) Memori: Proses memberikan makna subjektif pada informasi yang telah diorganisasikan, berdasarkan pengalaman dan nilai-nilai pribadi. Urutan dan deskripsi tahapan persepsi yang benar adalah...",
+        "pilihan": [
+            "Jika (1) dan (2) benar",
+            "Jika (3) dan (4) benar",
+            "Jika (1), (2), dan (4) benar",
+            "Jika semua pernyataan benar"
+        ],
+        "jawabanBenar": "Jika (1) dan (2) benar",
+        "penjelasanSalah": "Pernyataan (1) dan (2) memberikan deskripsi yang akurat untuk tahap Seleksi dan Organisasi. Pernyataan (3) salah, deskripsi tersebut lebih cocok untuk tahap Memori, bukan Interpretasi. Pernyataan (4) salah, deskripsi tersebut adalah untuk tahap Interpretasi-Evaluasi, bukan Memori. Urutan yang benar adalah seleksi, organisasi, interpretasi-evaluasi, memori, dan mengingat kembali. (Modul 2: Hal 10)"
+    },
+    {
+        "id": 27,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Faktor-faktor yang dapat mempengaruhi akurasi persepsi seseorang terhadap orang lain meliputi: (1) Karakteristik pribadi si penerima, seperti motif dan pengalaman masa lalunya. (2) Karakteristik target atau orang yang dipersepsi, seperti penampilan fisiknya. (3) Situasi atau konteks saat interaksi terjadi. (4) Kemampuan untuk sepenuhnya objektif dan mengabaikan nilai-nilai pribadi. Faktor-faktor yang sesuai dengan materi adalah...",
+        "pilihan": [
+            "Jika (1) dan (3) benar",
+            "Jika (2) dan (4) benar",
+            "Jika (1), (2), dan (3) benar",
+            "Jika semua pernyataan benar"
+        ],
+        "jawabanBenar": "Jika (1), (2), dan (3) benar",
+        "penjelasanSalah": "Pernyataan (1), (2), dan (3) secara akurat menyebutkan tiga faktor utama yang mempengaruhi persepsi menurut Robins: penerima, target, dan situasi. Pernyataan (4) salah. Modul secara eksplisit menyatakan bahwa persepsi tidak akan pernah bisa sepenuhnya objektif karena selalu melibatkan interpretasi berdasarkan pengalaman dan nilai pribadi (sifat evaluatif). (Modul 2: Hal 13, 17)"
+    },
+    {
+        "id": 28,
+        "mataPelajaran": "Komunikasi Personal Bermedia",
+        "pertanyaan": "Proses perkembangan kesadaran diri melibatkan beberapa konsep penting, antara lain: (1) Reflexive Self: Kemampuan individu untuk melihat dirinya sebagai subjek yang bertindak sekaligus objek yang diamati. (2) Social Self: Proses dimana konsep diri terbentuk secara internal tanpa pengaruh dari lingkungan sosial. (3) Self-Monitoring: Kemampuan untuk menyadari dan menyesuaikan perilaku agar sesuai dengan tuntutan situasi sosial. (4) Becoming Self: Menunjukkan bahwa konsep diri bersifat statis dan final setelah terbentuk di masa kanak-kanak. Kombinasi konsep yang dijelaskan dengan benar adalah...",
+        "pilihan": [
+            "Jika (1) dan (3) benar",
+            "Jika (2) dan (4) benar",
+            "Jika (1), (2), dan (3) benar",
+            "Jika semua pernyataan benar"
+        ],
+        "jawabanBenar": "Jika (1) dan (3) benar",
+        "penjelasanSalah": "Pernyataan (1) benar, ini adalah definisi dari 'reflexive self'. Pernyataan (3) benar, ini adalah definisi dari 'self-monitoring'. Pernyataan (2) salah, 'social self' justru menekankan bahwa konsep diri terbentuk dari interaksi dan reaksi orang lain. Pernyataan (4) salah, 'becoming self' menyatakan bahwa konsep diri selalu dinamis dan berkembang. (Modul 2: Hal 23-26)"
+    }
+]

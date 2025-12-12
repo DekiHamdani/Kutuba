@@ -1,0 +1,182 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    display: flex; /* Menggunakan Flexbox untuk tata letak */
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+#sidebar {
+    width: 250px;
+    padding: 20px;
+    background-color: #e9ecef;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    margin-right: 20px;
+    height: fit-content; /* Sesuai konten */
+}
+
+#subject-list {
+    list-style: none;
+    padding: 0;
+}
+
+#subject-list li {
+    margin: 10px 0;
+}
+
+#subject-list button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.2s;
+}
+
+#subject-list button:hover {
+    background-color: #0056b3;
+}
+
+#main-content {
+    flex-grow: 1; /* Konten utama mengambil sisa ruang */
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#quiz-area {
+    min-height: 200px;
+}
+
+.options button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    text-align: left;
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+.options button:hover:not(.disabled) {
+    background-color: #e2e6ea;
+}
+
+.options .correct {
+    background-color: #28a745; /* Hijau */
+    color: white;
+    border-color: #218838;
+}
+
+.options .incorrect {
+    background-color: #dc3545; /* Merah */
+    color: white;
+    border-color: #c82333;
+}
+
+.options .disabled {
+    cursor: default;
+    pointer-events: none; /* Menonaktifkan klik setelah dijawab */
+}
+
+#feedback-area {
+    margin-top: 20px;
+    padding: 15px;
+    border-left: 5px solid #ffc107;
+    background-color: #fff3cd;
+    color: #856404;
+    border-radius: 5px;
+    display: none; /* Sembunyikan secara default */
+}
+
+#next-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.result-box {
+    text-align: center;
+    padding: 40px;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    background-color: #e6f2ff;
+}
+
+#final-score-text {
+    color: #28a745;
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #343a40;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#sidebar {
+    display: block !important; /* Memaksa sidebar tampil */
+}
+
+/* ATURAN UNTUK MEMASTIKAN LAYAR UTAMA AKTIF BISA TAMPIL */
+/* JavaScript akan menambahkan display: block, kita pastikan ini menang */
+#welcome-screen[style*="display: block"], 
+#quiz-area[style*="display: block"],
+#result-area[style*="display: block"] {
+    display: block !important;
+}
+/* style.css */
+/* ... Tambahkan di bagian bawah atau dekat #subject-list button ... */
+
+.back-button-link {
+    /* Meniru styling tombol dari #subject-list button */
+    display: block; 
+    width: 100%;
+    padding: 10px 15px;
+    margin: 10px 0;
+    text-align: left;
+    background-color: #007bff; /* Warna yang sama dengan tombol di sidebar */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none; /* Hapus garis bawah link */
+    transition: background-color 0.2s;
+}
+
+.back-button-link:hover {
+    background-color: #0056b3;
+}
