@@ -73,15 +73,5 @@ Jika Anda menemukan *bug* atau memiliki saran perbaikan, jangan ragu untuk membu
 
 ### **\#\# 📜 Lisensi**
 
-Proyek ini berada di bawah lisensi MIT. (Atau lisensi lain yang Anda pilih)
+Proyek ini berada di bawah lisensi MIT.
 
------
-
-### **\#\# 🚀 Deployment & Monetisasi (AdSense)**
-
-Aplikasi ini dapat di-*deploy* dengan mudah di layanan *hosting* statis.
-
-  * **Hosting Statis yang Direkomendasikan:** GitHub Pages, Netlify, atau Vercel.
-  * **Monetisasi AdSense:** Untuk mendapatkan persetujuan AdSense, pastikan situs Anda memiliki konten yang memadai (deskripsi kuis yang panjang), serta halaman **Privacy Policy** dan **Terms of Service** yang dapat diakses dengan jelas dari `index.html`.
-
-Apakah ada bagian dari *template* `README` ini yang ingin Anda ubah atau tambahkan?
